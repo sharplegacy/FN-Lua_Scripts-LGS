@@ -6,5 +6,3 @@
 6) Button and it show's which ButtonCode it is used with (In my example Button = 8)   
 7) Then Use the dropDown menu again and select *Create Script*              
 8) COPY + PASTE the lua code, change the Buttons to your preferals & InGame settings  
-
-EAZY GG6
